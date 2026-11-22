@@ -1,0 +1,10 @@
+{
+  "name": "chort",
+  "version": "0.1.5",
+  "description": "Local HTML and CSS design canvas for coding agents over MCP on macOS.",
+  "mcpServers": {
+    "chort": {
+      "httpUrl": "http://127.0.0.1:4117/mcp"
+    }
+  }
+}

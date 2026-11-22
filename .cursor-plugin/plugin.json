@@ -1,0 +1,37 @@
+{
+  "name": "chort",
+  "version": "0.1.5",
+  "description": "Local HTML and CSS design canvas for coding agents over MCP on macOS. Write boards, run check_design, resolve canvas comments, and export JSX/Tailwind.",
+  "author": {
+    "name": "Dmitry (Dee) Kargaev",
+    "url": "https://www.deeflect.com"
+  },
+  "homepage": "https://chort.design",
+  "repository": "https://github.com/deeflect/chort",
+  "keywords": [
+    "design-canvas",
+    "html-css",
+    "ui-design",
+    "tailwind",
+    "jsx",
+    "mcp",
+    "cursor",
+    "claude-code",
+    "macos"
+  ],
+  "skills": [
+    "./skills"
+  ],
+  "mcpServers": "./.mcp.json",
+  "category": "design",
+  "tags": [
+    "design",
+    "html",
+    "css",
+    "tailwind",
+    "jsx",
+    "mcp",
+    "ui"
+  ],
+  "logo": "https://raw.githubusercontent.com/deeflect/chort/main/assets/icon-512.png"
+}
