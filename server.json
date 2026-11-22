@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.deeflect/chort",
+  "title": "chort",
+  "description": "Local HTML and CSS design canvas for coding agents over MCP on macOS.",
+  "version": "0.1.5",
+  "repository": {
+    "source": "github",
+    "url": "https://github.com/deeflect/chort"
+  },
+  "websiteUrl": "https://chort.design",
+  "packages": [
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/deeflect/chort/releases/download/v0.1.5/chort-0.1.5.mcpb",
+      "fileSha256": "e729889182a76226a17f8ce690e10b12c24d96c3574cbcd67b2c601df49ccfca",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
