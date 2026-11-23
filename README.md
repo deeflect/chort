@@ -13,7 +13,7 @@ chort is a local design canvas for coding agents. Claude Code, Codex and any MCP
 
 Grab the latest signed & notarized macOS beta installer from **[GitHub Releases](https://github.com/deeflect/chort/releases/latest)**:
 
-- **macOS (Apple silicon):** `chort-0.1.5-mac-arm64.dmg`
+- **macOS (Apple silicon):** `chort-0.1.6-mac-arm64.dmg`
 
 Automatic updates are built in and pull directly from this repository's GitHub Releases (`chort → Check for Updates…`).
 

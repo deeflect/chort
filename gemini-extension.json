@@ -1,6 +1,6 @@
 {
   "name": "chort",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Local HTML and CSS design canvas for coding agents over MCP on macOS.",
   "mcpServers": {
     "chort": {

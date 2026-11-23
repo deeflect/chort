@@ -2,7 +2,7 @@
 name: chort
 description: Design UI boards in real HTML and CSS on the local chort macOS canvas over MCP, run check_design audits, resolve canvas comments, and export JSX/Tailwind. Use when designing screens, components, landing pages, or iterating on canvas feedback with chort.
 metadata:
-  version: 0.1.5
+  version: 0.1.6
   author: deeflect
   source: https://chort.design
 ---

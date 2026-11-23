@@ -3,7 +3,7 @@
   "name": "io.github.deeflect/chort",
   "title": "chort",
   "description": "Local HTML and CSS design canvas for coding agents over MCP on macOS.",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "repository": {
     "source": "github",
     "url": "https://github.com/deeflect/chort"
@@ -12,8 +12,8 @@
   "packages": [
     {
       "registryType": "mcpb",
-      "identifier": "https://github.com/deeflect/chort/releases/download/v0.1.5/chort-0.1.5.mcpb",
-      "fileSha256": "e729889182a76226a17f8ce690e10b12c24d96c3574cbcd67b2c601df49ccfca",
+      "identifier": "https://github.com/deeflect/chort/releases/download/v0.1.6/chort-0.1.6.mcpb",
+      "fileSha256": "65ce1209c24b9a56f45fe3f0621ae29ecefae7a1279bd2be1bbe2806758dd72a",
       "transport": {
         "type": "stdio"
       }
